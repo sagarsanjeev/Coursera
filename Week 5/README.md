@@ -1,4 +1,4 @@
-<img width="100" height="100" src="https://github.com/sagarsanjeev24/Coursera/blob/main/Week%205/images/Average%20Housing%20Price.png?raw=true">
+<img width="1000" height="1000" src="https://github.com/sagarsanjeev24/Coursera/blob/main/Week%205/images/Average%20Housing%20Price.png?raw=true">
 
 # Introduction:
 The purpose of this Capstone Project is to help people in exploring better facilities around their neighborhood. It will help people making smart and efficient decision on selecting great neighborhood out of numbers of other neighborhoods in Scarborough, Toranto.
@@ -30,4 +30,4 @@ The data retrieved from Foursquare contained information of venues within a spec
 7. Venue Longitude
 8. Venue Category
 # Map of Scarborough
-<img width="100" height="100" src="https://github.com/sagarsanjeev24/Coursera/blob/main/Week%205/images/Map%20of%20Clusters%20Scarborough.png?raw=true">
+<img width="1000" height="1000" src="https://github.com/sagarsanjeev24/Coursera/blob/main/Week%205/images/Map%20of%20Clusters%20Scarborough.png?raw=true">
