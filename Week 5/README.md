@@ -49,7 +49,7 @@ would be set to 500.
 # 4. Results Section
 Map of Clusters in Scarborough
 
-<img width="1000" height="1000" src=""https://github.com/sagarsanjeev24/Coursera/blob/main/Week%205/images/Map%20of%20Clusters%20Scarborough.png?raw=true">
+<img width="1000" height="1000" src="https://github.com/sagarsanjeev24/Coursera/blob/main/Week%205/images/Map%20of%20Clusters%20Scarborough.png?raw=true">
 
 # Average Housing Price by Clusters in Scarborough
 <img width="1000" height="1000" src="https://github.com/sagarsanjeev24/Coursera/blob/main/Week%205/images/Average%20Housing%20Price.png?raw=true">
